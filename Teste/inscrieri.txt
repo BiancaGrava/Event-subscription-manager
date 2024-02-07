@@ -1,0 +1,5 @@
+12 a-a str.1,nr.2 300 12/03/2024 12:00 majorat 1
+12 a-a str.1,nr.2 301 12/03/2024 12:00 majorat 2
+13 b-a str.0,nr.1 300 12/03/2024 12:00 majorat 5
+13 b-a str.0,nr.1 401 12/03/2024 12:00 majorat 5
+12 a-a str.1,nr.2 401 12/03/2024 12:00 majorat 2
